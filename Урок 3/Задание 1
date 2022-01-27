@@ -1,7 +1,9 @@
-# Первый способ
+print('# Первый способ')
 print('Glo Academy')
 print()
 print('Glo Academy')
 
-# Второй способ
-print('Glo Academy', '', 'Glo Academy', sep = '\n')
+print
+
+print('# Второй способ')
+print('Glo Academy', '', 'Glo Academy', sep='\n')
